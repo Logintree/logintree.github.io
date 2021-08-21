@@ -9,8 +9,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .name { 
   color: grey;
   font-family: Calibre, helvetica, sans-serif;
-  margin-left: 350px;
-  border-top: 1px solid black;
+  margin-left: 10px;
+  border-bottom: 3px solid black;
   padding-left: center;
 }
 
