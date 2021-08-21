@@ -10,7 +10,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   color: grey;
   font-family: Calibre, helvetica, sans-serif;
   margin-left: 350px;
-  border: 3px solid black;
+  border-top: 1px solid black;
   padding-left: center;
 }
 
